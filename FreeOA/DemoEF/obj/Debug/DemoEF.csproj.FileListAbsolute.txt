@@ -1,0 +1,13 @@
+D:\ASP\FreeOA\FreeOA\DemoEF\bin\Debug\DemoEF.exe.config
+D:\ASP\FreeOA\FreeOA\DemoEF\bin\Debug\DemoEF.exe
+D:\ASP\FreeOA\FreeOA\DemoEF\bin\Debug\DemoEF.pdb
+D:\ASP\FreeOA\FreeOA\DemoEF\bin\Debug\EntityFramework.dll
+D:\ASP\FreeOA\FreeOA\DemoEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP\FreeOA\FreeOA\DemoEF\bin\Debug\EntityFramework.xml
+D:\ASP\FreeOA\FreeOA\DemoEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP\FreeOA\FreeOA\DemoEF\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\ASP\FreeOA\FreeOA\DemoEF\obj\Debug\DemoEF.csprojAssemblyReference.cache
+D:\ASP\FreeOA\FreeOA\DemoEF\obj\Debug\DemoEF.csproj.CoreCompileInputs.cache
+D:\ASP\FreeOA\FreeOA\DemoEF\obj\Debug\DemoEF.csproj.CopyComplete
+D:\ASP\FreeOA\FreeOA\DemoEF\obj\Debug\DemoEF.exe
+D:\ASP\FreeOA\FreeOA\DemoEF\obj\Debug\DemoEF.pdb
